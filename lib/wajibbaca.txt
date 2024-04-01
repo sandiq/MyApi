@@ -1,0 +1,1 @@
+jika pakai database local ganti config-dblocal.js ke config.js jika tidak ganti/biarin jadi config-dblocal.js dan ubah nama config.js [tersersh] begitu sebaliknya kalau pakai mongodb
